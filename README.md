@@ -1,100 +1,81 @@
-<!-- 💫 Ahmed Karam Esa - Modern Neon Profile README -->
+<!-- 🌌 Animated & Stylish GitHub Profile - Ahmed Karam Essa -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9A45FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Ahmed+Karam+Esa;Full+Stack+Web+Developer+💻;and+.NET+Developer+⚙️;Welcome+to+my+GitHub+Profile!">
-</h1>
+<h1 align="center">Hey there 👋, I'm Ahmed Karam Esa</h1>
+<h3 align="center">🚀 Full Stack Web & .NET Developer from Egypt 🇪🇬</h3>
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
-</div>
-
----
-
-## 💫 About Me
-💡 Turning ideas into clean, efficient, and creative code.  
-🚀 Specialized in **Full Stack Web Development** and **.NET**.  
-🌍 Based in Egypt, always curious about new tech trends.  
-☕ Fueled by **coffee**, **music**, and **problem-solving energy**!  
-
----
-
-## 🎯 My Current Focus
-- 🌐 Mastering **Advanced .NET Core & APIs**  
-- 🧠 Exploring **Cloud & DevOps tools**  
-- 🧩 Building **Full Stack Projects with React & Node.js**  
-- 🤖 Learning about **AI integration** in web apps  
-
----
-
-## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/Ahmed-Karam-Essa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ahmed-karam-se901/"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ahmedkaramesa901@gmail.com"><img src="https://img.shields.io/badge/Email-9A45FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code...;Full+Stack+.NET+Developer;Passionate+About+Cloud+and+AI;Coding+Fueled+by+☕+and+🎵" alt="Typing SVG" />
 </p>
 
 ---
 
-## 💻 Tech Stack
-<div align="center">
-
-| Frontend | Backend | Database | Tools |
-|-----------|----------|-----------|--------|
-| ![HTML5](https://img.shields.io/badge/HTML5-FF6B00?style=for-the-badge&logo=html5&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white) | ![SQL Server](https://img.shields.io/badge/SQL%20Server-A4373A?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A) | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) |
-
-</div>
+### 💫 About Me
+💻 I’m passionate about building modern web apps using **.NET, React, Node.js**  
+🌱 Currently exploring **Cloud Development** and **Advanced .NET Technologies**  
+🎯 I love solving problems, creating smooth user experiences, and writing clean code  
+⚡ Fun fact: I debug 10× faster when listening to music 🎧  
 
 ---
 
-## 🧩 Projects
-> 🚀 **Project 1** – *(Add details later)*  
-> 🚀 **Project 2** – *(Add details later)*  
-> 🚀 **Project 3** – *(Add details later)*  
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/Ahmed-Karam-Essa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-karam-se901/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ahmedkaramesa901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🏅 Certificates
-> 🎓 *(Add certificate details later)*  
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,html,css,git,github,sqlserver,docker,vscode&perline=7" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Karam-Essa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Karam-Essa&theme=tokyonight&hide_border=false" height="160">
-</div>
+### 🚀 Featured Projects
+🟣 **Project 1** – *Coming soon...*  
+🔵 **Project 2** – *Coming soon...*  
+🟢 **Project 3** – *Coming soon...*
 
 ---
 
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Karam-Essa&theme=tokyonight&margin-w=10&no-frame=true&row=1" />
-</div>
+### 🏅 Achievements & Certificates
+🏆 Certification 1 – *Add details later*  
+🏆 Certification 2 – *Add details later*
 
 ---
 
-## ✨ Fun Zone
-<div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="350" alt="fun coding">
-  <br><br>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Karam-Essa&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Karam-Essa&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Karam-Essa&theme=radical" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Karam-Essa&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true"/>
+</p>
 
 ---
 
-## 🧠 Quote of the Day
-> "Code is like humor — when you have to explain it, it’s bad." 😄
+### 🌀 Dynamic Motion (GIF Vibes)
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100">
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+### 💫 Quote of the Day
+> “Code is like humor. When you have to explain it, it’s bad.” 😎
 
 ---
 
-<p align="center">🌟 Thanks for visiting my profile! 🌟</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+</p>
