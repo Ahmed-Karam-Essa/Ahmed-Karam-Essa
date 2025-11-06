@@ -1,81 +1,104 @@
-<!-- 🌌 Animated & Stylish GitHub Profile - Ahmed Karam Essa -->
+<!-- =========================
+   Ahmed Karam Esa — GitHub Profile README
+   Style: Neon Purple / Blue (A-Hemeda inspired)
+   Paste this into: Ahmed-Karam-Essa/README.md
+   ========================= -->
 
-<h1 align="center">Hey there 👋, I'm Ahmed Karam Esa</h1>
-<h3 align="center">🚀 Full Stack Web & .NET Developer from Egypt 🇪🇬</h3>
+<!-- Header typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=9A45FF&center=true&vCenter=true&width=760&lines=Hey+there+👋+I'm+Ahmed+Karam+Esa;Full+Stack+Web+%26+.NET+Developer;Building+modern+web+apps+with+passion" alt="typing" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code...;Full+Stack+.NET+Developer;Passionate+About+Cloud+and+AI;Coding+Fueled+by+☕+and+🎵" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header&text=Welcome+to+my+GitHub+Profile&fontSize=24" alt="banner" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160" alt="coding gif"/>
+</div>
+
+---
+
+## 👋 About Me
+**Ahmed Karam Esa** — 💫 Full Stack Web Developer & .NET Developer from **Egypt 🇪🇬**.  
+🚀 Passionate about building creative, high-performance web apps.  
+👨‍💻 I’ve been coding for years — turning coffee ☕ into clean, efficient code.  
+💡 Always learning, always creating.
+
+---
+
+## 🔗 Connect
+<p align="center">
+  <a href="https://github.com/Ahmed-Karam-Essa" title="GitHub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-karam-se901/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="mailto:ahmedkaramesa901@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-9A45FF?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://wa.me/201008973841" title="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"/></a>
+  <a href="https://codeforces.com/profile/A_Karam" title="Codeforces"><img src="https://img.shields.io/badge/Codeforces-2F74C0?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
 </p>
 
 ---
 
-### 💫 About Me
-💻 I’m passionate about building modern web apps using **.NET, React, Node.js**  
-🌱 Currently exploring **Cloud Development** and **Advanced .NET Technologies**  
-🎯 I love solving problems, creating smooth user experiences, and writing clean code  
-⚡ Fun fact: I debug 10× faster when listening to music 🎧  
-
----
-
-### 🌐 Connect With Me
+## 🧰 Tech Stack
 <p align="center">
-  <a href="https://github.com/Ahmed-Karam-Essa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ahmed-karam-se901/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ahmedkaramesa901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,js,html,css,mongodb,sqlserver,docker,git,vscode&perline=8" alt="tech icons"/>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Featured (Placeholders)
+> 🔹 **Project 1** — *Add details later.*  
+> 🔹 **Project 2** — *Add details later.*  
+> 🔹 **Project 3** — *Add details later.*  
+
+*(You can replace these lines with actual project links & descriptions whenever ready.)*
+
+---
+
+## 🏅 Certificates
+> 🎓 *Add certificate details later...*
+
+---
+
+## 🎯 My Current Focus
+- Mastering **Advanced .NET Core & Web APIs**  
+- Building **Full-Stack Apps** with React & .NET backends  
+- Exploring **Cloud & DevOps** (Azure / CI/CD)  
+- Integrating **AI features** into web apps
+
+---
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,html,css,git,github,sqlserver,docker,vscode&perline=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Karam-Essa&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="150" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Karam-Essa&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Karam-Essa&theme=tokyonight&no-bg=true&no-frame=true" alt="trophy"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-🟣 **Project 1** – *Coming soon...*  
-🔵 **Project 2** – *Coming soon...*  
-🟢 **Project 3** – *Coming soon...*
+## 🐍 Contributions — Snake Animation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="contrib-snake" />
+</div>
 
 ---
 
-### 🏅 Achievements & Certificates
-🏆 Certification 1 – *Add details later*  
-🏆 Certification 2 – *Add details later*
-
----
-
-### 📊 GitHub Analytics
+## ✨ Dynamic & Fun
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Karam-Essa&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Karam-Essa&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Karam-Essa&theme=radical" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Karam-Essa&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="fun"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" alt="fun2"/>
 </p>
 
 ---
 
-### 🌀 Dynamic Motion (GIF Vibes)
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100">
-</p>
-
----
-
-### 💫 Quote of the Day
-> “Code is like humor. When you have to explain it, it’s bad.” 😎
+## 🧠 Quote
+> “Code is like humor — when you have to explain it, it’s bad.” 😄
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=90&section=footer&text=Thanks+for+visiting!&fontSize=16&color=6A5ACD" alt="footer"/>
 </p>
